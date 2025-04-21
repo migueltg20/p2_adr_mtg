@@ -1,8 +1,8 @@
-# Filtros de Kalman para Estimación de Pose y Velocidad
+# Filtros de Kalman para Estimación de Posisción y Velocidad
 
 Este repositorio contiene dos implementaciones diferentes de filtros de Kalman para la estimación de estados de un robot:
 
-## 1. Filtro de Kalman para Estimación de Pose (`kf_estimation.py`)
+## 1. Filtro de Kalman para Estimación de Posisción (`kf_estimation.py`)
 
 Este filtro implementa un estimador básico que rastrea la posición y orientación del robot en 2D.
 
